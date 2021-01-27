@@ -1,0 +1,16 @@
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/bin/Debug/net5.0/BinaryNumbers
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/bin/Debug/net5.0/BinaryNumbers.deps.json
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/bin/Debug/net5.0/BinaryNumbers.runtimeconfig.json
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/bin/Debug/net5.0/BinaryNumbers.runtimeconfig.dev.json
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/bin/Debug/net5.0/BinaryNumbers.dll
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/bin/Debug/net5.0/ref/BinaryNumbers.dll
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/bin/Debug/net5.0/BinaryNumbers.pdb
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/obj/Debug/net5.0/BinaryNumbers.csprojAssemblyReference.cache
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/obj/Debug/net5.0/BinaryNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/obj/Debug/net5.0/BinaryNumbers.AssemblyInfoInputs.cache
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/obj/Debug/net5.0/BinaryNumbers.AssemblyInfo.cs
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/obj/Debug/net5.0/BinaryNumbers.csproj.CoreCompileInputs.cache
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/obj/Debug/net5.0/BinaryNumbers.dll
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/obj/Debug/net5.0/ref/BinaryNumbers.dll
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/obj/Debug/net5.0/BinaryNumbers.pdb
+/home/roger/Desktop/Files/Studies/CodeWars/C#/BinaryNumbers/obj/Debug/net5.0/BinaryNumbers.genruntimeconfig.cache
